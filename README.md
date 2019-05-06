@@ -6,9 +6,7 @@ Amazon MWS(Marketplace Web Service) Subscriptions Java Library - Version 2013-07
 =============================================================================== 
 The project is mavenised unofficial copy of Java library provided by Amazon for dealing with Amazon Marketplace Web Service API.
 
- - https://developer.amazonservices.com/doc/products/products/v20111001/java.html
-
- - https://docs.developer.amazonservices.com/en_US/products/index.html
+ - https://docs.developer.amazonservices.com/en_US/subscriptions/index.html
 
 Current CI status: https://travis-ci.org/trifonnt/ext-lib-amazon-mws-subscriptions
 
